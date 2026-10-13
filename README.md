@@ -45,7 +45,7 @@ The goal is to present key business metrics in an interactive dashboard that hel
 - `data/` — Dataset, if permitted for sharing.
 - `documentation/` — Business requirements document.
 ## Dashboard Preview
-![Amazon India Sales Dashboard](screenshots/Amazon_India_Dashboard.png)
+![Amazon India Sales Dashboard](Amazon_India_Dashboard.png)
 ## Conclusion
 This project demonstrates the use of Excel for data analysis, KPI tracking, interactive reporting, and business performance visualization.
 ## Author
